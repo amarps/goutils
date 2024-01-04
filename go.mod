@@ -1,4 +1,4 @@
-module github.com/pacenotesio/openapi/utils
+module github.com/amarps/goutils
 
 go 1.21.3
 
